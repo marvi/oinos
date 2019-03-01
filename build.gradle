@@ -1,0 +1,7 @@
+allprojects {
+    group = 'io.marvi'
+}
+
+subprojects {
+    version = '0.0.1-SNAPSHOT'
+}
